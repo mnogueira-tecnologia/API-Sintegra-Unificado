@@ -36,6 +36,12 @@ Como utilizar?
 
 <br>
 
+Execute a imagem gif abaixo para visualizar o funcionamento
+
+![funcionamento](Sintegra_ccc_excel.gif)
+
+<br>
+
 <h3>📝 Licença</h3>
 
 🚀 Aproveite o Plano FREE das Nossas APIs Sintegra Unificado e CNPJ Receita! 🔥
