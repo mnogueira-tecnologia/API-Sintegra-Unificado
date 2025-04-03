@@ -39,8 +39,13 @@ Como utilizar?
 Execute a imagem gif abaixo para visualizar o funcionamento
 
 ![funcionamento](Sintegra_ccc_excel.gif)
+<!--<img src="Sintegra_ccc_excel.gif" width="80%" height="80%">-->
 
 <br>
+
+<h1>📌 API Sintegra Unificado - Consulta Cadastro Centralizado de Contribuintes</h1>
+
+A API Sintegra / Consulta Cadastro Centralizado de Contribuinte (CCC) automatiza o processo de validação de informações no cadastro de novos clientes ou fornecedores e na emissão de nota fiscal, com o objetivo de garantir a conformidade das informações do destinatário nas operações internas ou interestadual. A consulta é realizada em tempo real na fonte pública oficial, mantida pela SEFAZ RS com outras secretarias de estado da fazenda do Brasil. 
 
 <h3>📝 Licença</h3>
 
