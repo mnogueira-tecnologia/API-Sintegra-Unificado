@@ -30,9 +30,9 @@ Api_MNT_Sintegra_Unificado.xlsm
 
 3 - Faça o download do Excel (github ou site ArquivoNfe) e na guia configuração, preencha sua chave de registro para uso da API.
 
-<br>
-Após o download, siga as instruções abaixo para desbloquear a execução da macro que faz a integração com o Sintegra. 
+4 - Após o download, siga as instruções abaixo para desbloquear a execução da macro que faz a integração com o Sintegra. 
 ![Excel habilitar macro](habilitar_macro_excel.png)
+![Sintegra](sintegra.png)
 
 <br>
 Informaçôes detalhadas em :
