@@ -37,7 +37,7 @@ Api_MNT_Sintegra_Unificado.xlsm
 Informaçôes detalhadas em :
 https://www.arquivo-nfe.com/api-sintegra-ccc-excel
 
-<br>
+<br> 
 Execute a imagem gif abaixo para visualizar o funcionamento
 
 ![funcionamento](Sintegra_ccc_excel.gif)
