@@ -33,6 +33,9 @@ Api_MNT_Sintegra_Unificado.xlsm
 https://www.arquivo-nfe.com/api-sintegra-ccc-excel
 
 <br>
+Após o download, siga as instruções abaixo para desbloquear a execução da macro que faz a integração com o Sintegra. 
+
+<br>
 
 Execute a imagem gif abaixo para visualizar o funcionamento
 
