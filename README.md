@@ -28,15 +28,17 @@ Api_MNT_Sintegra_Unificado.xlsm
 
 2 - Após o cadastro, faça o login no portal e copie seu código de cliente na página "Meu token".
 
-3 - Faça o download do Excel (github ou site abaixo) e na guia configuração, preencha sua chave de registro para uso da API.
-
-https://www.arquivo-nfe.com/api-sintegra-ccc-excel
+3 - Faça o download do Excel (github ou site ArquivoNfe) e na guia configuração, preencha sua chave de registro para uso da API.
 
 <br>
 Após o download, siga as instruções abaixo para desbloquear a execução da macro que faz a integração com o Sintegra. 
+![Excel habilitar macro](habilitar_macro_excel.png)
 
 <br>
+Informaçôes detalhadas em :
+https://www.arquivo-nfe.com/api-sintegra-ccc-excel
 
+<br>
 Execute a imagem gif abaixo para visualizar o funcionamento
 
 ![funcionamento](Sintegra_ccc_excel.gif)
