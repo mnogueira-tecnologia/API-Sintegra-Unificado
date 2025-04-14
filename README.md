@@ -32,7 +32,6 @@ Api_MNT_Sintegra_Unificado.xlsm
 
 4 - Após o download, siga as instruções abaixo para desbloquear a execução da macro que faz a integração com o Sintegra. 
 ![Excel habilitar macro](habilitar_macro_excel.png)
-![Sintegra](sintegra.png)
 
 <br>
 Informaçôes detalhadas em :
