@@ -22,7 +22,7 @@ Api_MNT_Sintegra_Unificado.xlsm
 
 <h3>⚙️ Como utilizar? </h3>
 
-1 - Cadastre-se grátis para avaliação 
+1 - Cadastre-se grátis 
 
 [Portal](https://g120c7c9d7b60c3-mnt.adb.sa-vinhedo-1.oraclecloudapps.com/ords/r/wksp_mnt/anfe/login)
 
