@@ -40,75 +40,115 @@ Api_MNT_Consulta_Sintegra_e_CNPJ_Receita.xlsm
 
 <br>
 
-<h3>⚙️ Como utilizar? </h3>
+---
 
-1 - Cadastre-se grátis 
+## ⚙️ Como utilizar
 
-[Portal](https://g120c7c9d7b60c3-mnt.adb.sa-vinhedo-1.oraclecloudapps.com/ords/r/wksp_mnt/anfe/login)
+### 1️⃣ Cadastre-se gratuitamente
 
-2 - Após o cadastro, faça o login no portal e copie seu código de cliente na página "Meu token".
+Acesse o portal:
 
-3 - Faça o download do Excel (github ou site ArquivoNfe) e na guia configuração, preencha sua chave de registro para uso da API.
+https://portal.arquivo-nfe.com
 
-4 - Após o download, siga as instruções abaixo para desbloquear a execução da macro que faz a integração com o Sintegra. 
+---
+
+### 2️⃣ Copie seu Token
+
+Após login no portal:
+
+Menu **Meu Token**
+
+Copie o **código de cliente**.
+
+---
+
+### 3️⃣ Baixe a planilha
+
+Faça download da planilha:
+
+https://www.arquivo-nfe.com/api-sintegra-e-cnpj-receita-excel
+
+Na guia **Configuração**, informe seu **token de acesso à API**.
+
+---
+
+### 4️⃣ Habilite as macros no Excel
+
+Para permitir a integração com as APIs:
+
 ![Excel habilitar macro](habilitar_macro_excel.png)
 
-<br>
-Informaçôes detalhadas em :
+---
+
+## 📘 Documentação completa
+
+Mais detalhes em:
+
 https://www.arquivo-nfe.com/api-sintegra-ccc-excel
 
-<br>
+---
 
-Execute a imagem gif abaixo para visualizar o funcionamento
+## 🎥 Demonstração
+
+Execute o GIF abaixo para visualizar o funcionamento:
 
 ![funcionamento](Sintegra_ccc_excel.gif)
-<!--<img src="Sintegra_ccc_excel.gif" width="80%" height="80%">-->
 
-<br>
+---
 
-<h1>📌 API Sintegra Unificado - Consulta Cadastro Centralizado de Contribuintes</h1>
+# 🌐 API Sintegra Unificado
 
-A API Sintegra / Consulta Cadastro Centralizado de Contribuinte (CCC) automatiza o processo de validação de informações no cadastro de novos clientes ou fornecedores e na emissão de nota fiscal, com o objetivo de garantir a conformidade das informações do destinatário nas operações internas ou interestadual. A consulta é realizada em tempo real na fonte pública oficial, mantida pela SEFAZ RS com outras secretarias de estado da fazenda do Brasil. 
+A **API Sintegra / Cadastro Centralizado de Contribuintes (CCC)** automatiza a validação de informações fiscais durante:
+
+- cadastro de clientes
+- cadastro de fornecedores
+- emissão de nota fiscal
+
+A consulta é realizada em **tempo real** na fonte pública oficial mantida pela **SEFAZ RS em conjunto com as demais SEFAZ estaduais**.
 
 ![Sintegra](sintegra.png)
 
-<br>
+---
 
-<h3>Usos comuns</h3>
+## 💼 Usos comuns
 
-<ul>
-<li>  
-Pode ser usada para verificar a situação do contribuinte antes da emissão de notas fiscais de entrada (emissão própria).
-</li>
-<li>  
-Pode ser usada como alternativa à pesquisa de SINTEGRA estadual.
-</li>
-<li>
-Pode ser usado em gestão cadastral e fiscal, confirmando se os dados estão corretos e atualizados.
-</li>
-<li>  
-Pode ser usada para verificar o regime de tributação de uma empresa.
-</li>
-<li>
-Pode ser usada para criação de dossiês ou em processos de KYC (Know Your Customer, ou, Conheça Seu Cliente)
-</li>
+✔ Verificar situação do contribuinte antes da emissão de notas fiscais  
+✔ Alternativa à consulta manual no SINTEGRA estadual  
+✔ Gestão cadastral e fiscal  
+✔ Validação de dados fiscais de empresas  
+✔ Verificação de regime tributário  
+✔ Criação de dossiês e processos de **KYC (Know Your Customer)**  
 
-<br>
+---
+
+## 📄 Exemplo de retorno da API
 
 ![Retorno json](exemplo_ccc_retorno_json.png)
 
-<br>
+---
 
-<h3>Como utilizar?</h3>
+## 🔗 Documentação da API
 
 https://www.arquivo-nfe.com/api-sintegra-ccc
 
-<br>
+---
 
-<h3>📝 Licença</h3>
+## ⭐ Apoie o projeto
 
-🚀 Aproveite o Plano FREE das Nossas APIs Sintegra Unificado e CNPJ Receita! 🔥
+Se este projeto foi útil para você:
 
-<br>
+⭐ **Deixe uma estrela no repositório**
 
-Made with ❤️ by ArquivoNfe. All rights reserved.  🚀
+Isso ajuda outras pessoas a encontrarem o projeto.
+
+---
+
+## 📝 Licença
+
+🚀 Aproveite o **Plano FREE** das APIs **Sintegra Unificado** e **CNPJ Receita**.
+
+---
+
+Made with ❤️ by **ArquivoNfe**
+
+https://www.arquivo-nfe.com
