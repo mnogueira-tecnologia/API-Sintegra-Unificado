@@ -1,4 +1,20 @@
-<h1>📌 API Consulta Sintegra CCC e CNPJ Receita no Excel</h1>
+# API Sintegra Unificado – Consulta CCC, CNPJ Receita e IE no Excel
+
+API para consulta de **Sintegra (Cadastro Centralizado de Contribuintes – CCC)** e **CNPJ da Receita Federal**, permitindo consultas em massa diretamente no **Excel via VBA**.
+
+Integração com as APIs do portal **arquivo-nfe.com**.
+
+## 🔎 Palavras-chave
+
+- API Sintegra
+- Consulta Sintegra
+- Sintegra CCC
+- Consulta CNPJ Receita Federal
+- Consulta Inscrição Estadual
+- API Fiscal Brasil
+- Consulta CNPJ em Excel
+- VBA Sintegra
+- Integração fiscal NF-e
 
 Excel projetado para realizar consultas de CNPJ, CPF ou IE em massa, integrando dados em tempo real diretamente do Sintegra e da base oficial da Receita Federal.
 
