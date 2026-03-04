@@ -1,10 +1,14 @@
-<h1>📌 API Sintegra Unificado no Excel</h1>
+<h1>📌 API Consulta Sintegra CCC e CNPJ Receita no Excel</h1>
 
-Excel projetado para realizar consultas de CNPJ, CPF ou IE em massa, integrando dados em tempo real diretamente do Sintegra.
+Excel projetado para realizar consultas de CNPJ, CPF ou IE em massa, integrando dados em tempo real diretamente do Sintegra e da base oficial da Receita Federal.
 
 Com uma interface intuitiva, permite a consulta simultânea de múltiplos CNPJs, CPF´s ou IE´s de acordo com suas necessidades.
 
-As informações coletadas são apresentadas na planilhas de retorno, proporcionando uma visão clara e estruturada dos dados obtidos, como Razão Social ou nome do Contribuinte, Situação do contribuinte (Não habilitado ou Habilitado), Indicador de contribuinte credenciado a emitir CT-e, Indicador de contribuinte credenciado a emitir NF-e, Regime de Apuração do ICMS do Contribuinte, CNAE, Data de ocorrência da baixa, Logradouro, Número, Município e mais.
+<b>Aba Sintegra</b>
+Projetada para consultas em massa de CNPJ, CPF ou Inscrição Estadual (IE), esta funcionalidade integra dados em tempo real diretamente da base do Sintegra. Com uma interface intuitiva, é possível consultar múltiplos documentos simultaneamente, de acordo com a sua necessidade. As informações coletadas são organizadas de forma clara e estruturada na planilha de retorno, apresentando dados como: razão social ou nome do contribuinte, situação cadastral (habilitado ou não habilitado), credenciamento para emissão de CT-e e NF-e, regime de apuração do ICMS, CNAE, data de baixa, logradouro, número, município, entre outros. 
+
+<b>Aba CNPJ Receita</b>
+Da mesma forma, realize consultas em massa de CNPJs diretamente da base oficial da Receita Federal. De forma simples e rápida, obtenha informações cadastrais completas, incluindo: situação cadastral, identificação de matriz ou filial, natureza jurídica, CNAEs, endereço, dados de enquadramento no Simples Nacional e relação de sócios. 
 
 <br>
 
@@ -16,7 +20,7 @@ Excel, VBA e API´s arquivo-nfe.com
 
 <h3>📂 Estrutura do Projeto</h3>
 
-Api_MNT_Sintegra_Unificado.xlsm
+Api_MNT_Consulta_Sintegra_e_CNPJ_Receita.xlsm
 
 <br>
 
